@@ -13,7 +13,7 @@ h1,h2{
 	padding: 0 auto;
 }
 
-p{
+p,ul,li{
 	color:#878787;
 	width: 90vw;
 	margin:1em 2em;
