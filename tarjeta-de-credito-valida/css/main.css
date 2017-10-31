@@ -1,0 +1,21 @@
+body{
+	background: #fcfefb;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	color: 787878;
+}
+
+h1,h2{
+	font-weight: 600;
+	color: #f6b518;
+	width:100vw;
+	margin: 1em;
+	padding: 0 auto;
+}
+
+p,ul,li{
+	color:#878787;
+	width: 90vw;
+	margin:1em 2em;
+	padding: 1em auto;
+}
