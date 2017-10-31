@@ -27,3 +27,6 @@
 	-Si el módulo 10 de la suma es no igual a cero, guarda la variable como falsa.				
 	-Muestra en consola si la tarjeta es válida.
 	-Regresa si la tarjeta es valida.
+
+##DIAGRAMA DE FLUJO
+[tarjeta-de-credito]["https://github.com/elzbeth/Sprint01-Productos-Finales/tree/master/tarjeta-de-credito-valida/assets/images/tarjeta-de-credito.jpg"]	
