@@ -3,7 +3,7 @@ document.getElementById('html');
 	function isValidCard(){
 		var cardNumber= prompt('Ingresa el número de la tarjeta');     			//Solicita el número de la tarjeta.
 			if(!isNaN(cardNumber)){												//Verifica que solo sean números.
-				if(cardNumber.length > 10 && cardNumber.length < 16){			//Se asegura que sea el número correcto de dígitos.							
+				if(cardNumber.length > 10 && cardNumber.length <= 16){			//Se asegura que sea el número correcto de dígitos.							
 
 					var valid;													//Regresará la validez de la tarjeta.
 					var sum = 0;												//Dónde se guardará la suma para la comprobación del algoritmo.
