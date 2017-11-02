@@ -29,4 +29,4 @@
 	-Regresa si la tarjeta es valida.
 
 ##DIAGRAMA DE FLUJO
-[tarjeta-de-credito]["https://github.com/elzbeth/Sprint01-Productos-Finales/tree/master/tarjeta-de-credito-valida/assets/images/tarjeta-de-credito.jpg"]	
+[Diagrama Tarjeta de crédito válida.]["https://github.com/elzbeth/Sprint01-Productos-Finales/tree/master/tarjeta-de-credito-valida/assets/images/tarjeta-de-credito.jpg"]	
